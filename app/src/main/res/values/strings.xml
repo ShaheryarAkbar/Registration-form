@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RigisterarionForm1</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="gender">Gender</string>
+</resources>
